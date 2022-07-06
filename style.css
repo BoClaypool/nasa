@@ -11,7 +11,7 @@ body {
     height: 450px;
     width: 850px;
     margin: 50px 0px 20px 0px;
-    background-image: url(hero.png);
+    background-image: url("https://spaceplace.nasa.gov/gallery-space/en/NGC2336-galaxy.en.jpg");
 }
 
 h1 {
@@ -26,7 +26,7 @@ h1 {
 
 .content {
     height: 324px;
-    width: 850px;
+    width: 1000px;
     display: flex;
     justify-content: space-evenly;
     background-color: rgb(224,224,224);
