@@ -11,7 +11,7 @@ body {
     height: 450px;
     width: 850px;
     margin: 50px 0px 20px 0px;
-    background-image: url(/hero.png);
+    background-image: url(hero.png);
 }
 
 h1 {
